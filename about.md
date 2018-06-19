@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Something about me.
+Christopher Chapman
+I am a 3rd year student at the University of Melbourne studying a bachelor of Science.
