@@ -13,10 +13,6 @@ permalink: /:title
 paginate: 3
 paginate_path: /page/:num/
 
-
-footer-links:
-  github_username: chrischapman82
-
 defaults:
   -
     scope:
@@ -34,3 +30,6 @@ plugins:
 # Custom variables
 owner : "Christopher Chapman"
 year : "2018"
+
+github_username:  chrischapman82
+linkedin_username:  christopher-chapman8296
