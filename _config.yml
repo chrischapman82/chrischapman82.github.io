@@ -13,6 +13,12 @@ permalink: /:title
 paginate: 3
 paginate_path: /page/:num/
 
+footer-links:
+  linkedin: christopher-chapman8296
+  github: chrischapman82
+
+
+
 defaults:
   -
     scope:
