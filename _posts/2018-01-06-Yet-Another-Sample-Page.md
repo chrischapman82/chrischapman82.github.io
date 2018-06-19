@@ -3,7 +3,7 @@ title: BattleCode 2018
 published: true
 ---
 
-A bot I made for the 2018 BattleCode competition. Hosted annually by MIT at a chance to fight for a chance at $50,000 in prizes.
+A bot I made for the 2018 BattleCode competition. Hosted annually by MIT to fight for a chance at $50,000 in prizes.
 
 The bot that I created:
 [Github link](https://github.com/chrischapman82/BattleCode2018).

@@ -1,7 +1,7 @@
 title: Christopher Chapman's CV
 description: "A blog for me, Christopher Chapman"
 author:
-  name: "Christopher Chpman"
+  name: "Christopher Chapman"
   email: "christopher.chapman8296@gmail.com"
   url: "https://ashishchaudhary.in/hacker-blog"
 
@@ -13,11 +13,9 @@ permalink: /:title
 paginate: 3
 paginate_path: /page/:num/
 
+
 footer-links:
-  linkedin: christopher-chapman8296
-  github: chrischapman82
-
-
+  github_username: chrischapman82
 
 defaults:
   -
